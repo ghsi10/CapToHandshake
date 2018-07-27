@@ -1,2 +1,2 @@
 # CapToHandshake
-Cap file to Handshake
+Cap file to Handshake object
